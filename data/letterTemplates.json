@@ -1,0 +1,36 @@
+{
+  "offerLetter": {
+    "title": "Job Offer Letter",
+    "template": "Dear {employeeName},\n\nWe are pleased to offer you the position of {position} at {companyName}. Your start date will be {startDate}, and you will be reporting to {managerName}.\n\nYour annual salary will be ${salary}, paid on a {payFrequency} basis. You will also be eligible for our benefits package, including health insurance, 401(k), and paid time off.\n\nWe look forward to welcoming you to our team!\n\nBest regards,\n{hrManagerName}\nHR Manager"
+  },
+  "promotionLetter": {
+    "title": "Promotion Letter",
+    "template": "Dear {employeeName},\n\nCongratulations! We are delighted to inform you of your promotion to the position of {newPosition}, effective {effectiveDate}.\n\nYour new annual salary will be ${newSalary}. This promotion recognizes your hard work and dedication to {companyName}.\n\nWe look forward to your continued success in your new role.\n\nBest regards,\n{hrManagerName}\nHR Manager"
+  },
+  "terminationLetter": {
+    "title": "Termination Letter",
+    "template": "Dear {employeeName},\n\nThis letter is to inform you that your employment with {companyName} will be terminated effective {terminationDate}.\n\nThe reason for this termination is {terminationReason}.\n\nPlease return all company property to the HR department by your last day of work. Your final paycheck will be processed on {finalPayDate}.\n\nIf you have any questions, please contact the HR department.\n\nSincerely,\n{hrManagerName}\nHR Manager"
+  },
+  "Transfer Letter": {
+    "title": "Transfer Letter",
+    "template": "Dear {employeeName},\n\nThis letter is to inform you that your employment with {companyName} will be terminated effective {terminationDate}.\n\nThe reason for this termination is {terminationReason}.\n\nPlease return all company property to the HR department by your last day of work. Your final paycheck will be processed on {finalPayDate}.\n\nIf you have any questions, please contact the HR department.\n\nSincerely,\n{hrManagerName}\nHR Manager"
+  },
+  "Warning Letter": {
+    "title": "Warning Letter",
+    "template": "Dear {employeeName},\n\nThis letter is to inform you that your employment with {companyName} will be terminated effective {terminationDate}.\n\nThe reason for this termination is {terminationReason}.\n\nPlease return all company property to the HR department by your last day of work. Your final paycheck will be processed on {finalPayDate}.\n\nIf you have any questions, please contact the HR department.\n\nSincerely,\n{hrManagerName}\nHR Manager"
+  },
+  "Internship Letter": {
+    "title": "Internship Letter",
+    "template": "Dear {employeeName},\n\nThis letter is to inform you that your employment with {companyName} will be terminated effective {terminationDate}.\n\nThe reason for this termination is {terminationReason}.\n\nPlease return all company property to the HR department by your last day of work. Your final paycheck will be processed on {finalPayDate}.\n\nIf you have any questions, please contact the HR department.\n\nSincerely,\n{hrManagerName}\nHR Manager"
+  },
+  "Participation Letter": {
+    "title": "Participation Letter",
+    "template": "Dear {employeeName},\n\nThis letter is to inform you that your employment with {companyName} will be terminated effective {terminationDate}.\n\nThe reason for this termination is {terminationReason}.\n\nPlease return all company property to the HR department by your last day of work. Your final paycheck will be processed on {finalPayDate}.\n\nIf you have any questions, please contact the HR department.\n\nSincerely,\n{hrManagerName}\nHR Manager"
+  },
+  "Course Completion Letter": {
+    "title": "Course Completion Letter",
+    "template": "Dear {employeeName},\n\nThis letter is to inform you that your employment with {companyName} will be terminated effective {terminationDate}.\n\nThe reason for this termination is {terminationReason}.\n\nPlease return all company property to the HR department by your last day of work. Your final paycheck will be processed on {finalPayDate}.\n\nIf you have any questions, please contact the HR department.\n\nSincerely,\n{hrManagerName}\nHR Manager"
+  }
+
+}
+

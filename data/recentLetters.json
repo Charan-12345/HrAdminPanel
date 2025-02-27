@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type": "Offer Letter",
+    "employee": "Sapna K",
+    "date": "2025-02-01",
+    "department": "IT"
+  },
+  {
+    "id": 2,
+    "type": "Promotion Letter",
+    "employee": "Shreyas V",
+    "date": "2025-01-28",
+    "department": "Marketing"
+  },
+  {
+    "id": 3,
+    "type": "Termination Letter",
+    "employee": "Prajwal D",
+    "date": "2024-12-25",
+    "department": "Sales"
+  },
+  {
+    "id": 4,
+    "type": "Transfer Letter",
+    "employee": "Ravi D",
+    "date": "2025-02-02",
+    "department": "Human Resources"
+  },
+  {
+    "id": 5,
+    "type": "Warning Letter",
+    "employee": "Vishal",
+    "date": "2025-02-13",
+    "department": "Customer Support Head"
+  }
+]
+
